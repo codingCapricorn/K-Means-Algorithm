@@ -1,3 +1,3 @@
-# K-Means Algorithm
+# K-Means Clustering Algorithm
 
-An Unsupervised Clustering Machine Learning Algorithm
+An Unsupervised Machine Learning Algorithm
