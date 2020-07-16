@@ -112,4 +112,8 @@ def initialize(data, k):
 # call the initialize function to get the centroids 
 centroids = initialize(data, k = 4)
 
-"""End"""
+
+
+
+
+
