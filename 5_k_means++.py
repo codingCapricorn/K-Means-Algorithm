@@ -112,4 +112,4 @@ def initialize(data, k):
 # call the initialize function to get the centroids 
 centroids = initialize(data, k = 4)
 
-"""###Although the initialization in K-means++ is computationally more expensive than the standard K-means algorithm, the run-time for
+"""###Although the initialization in K-means++ is computationally more expensive than the standard K-means algorithm, 
