@@ -2,7 +2,6 @@
 """5.K-Means++.ipynb
 
 
-    https://colab.research.google.com/drive/1_yelVGl-VqkGRRpB17tifvL_ph2j934Z
 
 # "K-Means++ Clustering Algorithm" ::::
 
