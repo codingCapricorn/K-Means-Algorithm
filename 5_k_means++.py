@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """5.K-Means++.ipynb
 
-Automatically generate
+Automatically 
 
 Original file is located at
     https://colab.research.google.com/drive/1_yelVGl-VqkGRRpB17tifvL_ph2j934Z
