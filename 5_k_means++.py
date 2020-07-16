@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """5.K-Means++.ipynb
 
-Original file is 
+
     https://colab.research.google.com/drive/1_yelVGl-VqkGRRpB17tifvL_ph2j934Z
 
 # "K-Means++ Clustering Algorithm" ::::
