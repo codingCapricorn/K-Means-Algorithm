@@ -112,4 +112,4 @@ def initialize(data, k):
 # call the initialize function to get the centroids 
 centroids = initialize(data, k = 4)
 
-"""###Although the initialization in K-means++ is computationally more expensive than the standard K-means algorithm, the run-time for convergence to optimum is drastically reduced for K-means++. This is because the centroids that are initially chosen are likely to lie in different clusters already."""
+"""###Although the initialization in K-means++ is computationally more expensive than the standard K-means algorithm, the run-time for
