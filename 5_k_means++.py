@@ -17,8 +17,7 @@
 
 1. Randomly select the first centroid from the data points.
 
-2. For each data point compute its distance from the nearest, previously chosen centroid.
-
+2. For each data point compute its distance from the nearest, 
 
 """
 
