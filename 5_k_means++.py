@@ -14,8 +14,6 @@
 2. Similarly, more than one centroids might be initialized into the same cluster resulting in poor clustering.
 
 ##Steps involved in implementing K-Means++ Algorithm ::::
-
-1. Randomly select the
  
 
 """
