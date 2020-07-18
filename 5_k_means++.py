@@ -19,7 +19,7 @@
 
 2. For each data point compute its distance from the nearest, previously chosen centroid.
 
-3. Select the next centroid from the data points such that the probability of choosing a 
+
 """
 
 # importing dependencies 
