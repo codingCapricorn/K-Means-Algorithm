@@ -15,7 +15,7 @@
 
 ##Steps involved in implementing K-Means++ Algorithm ::::
 
-1. Randomly select the first centroid from the data points.
+1. Randomly select the first centroid 
 
  
 
