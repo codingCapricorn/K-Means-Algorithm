@@ -19,8 +19,7 @@
 
 2. For each data point compute its distance from the nearest, previously chosen centroid.
 
-3. Select the next centroid from the data points such that the probability of choosing a point as centroid is directly proportional to its distance from the nearest, previously chosen centroid. (i.e. the point having maximum distance from the nearest centroid is most likely to be selected next as a centroid)
-
+3. Select the next centroid from the data points such that the probability of choosing a 
 """
 
 # importing dependencies 
