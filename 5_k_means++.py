@@ -11,7 +11,7 @@
 
 1. It is sensitive to the initialization of the centroids or the mean points. So, if a centroid is initialized to be a “far-off” point, it might just end up with no points associated with it, and at the same time, more than one cluster might end up linked with a single centroid.
 
-2. Similarly, more than one centroids might be initialized into the same cluster resulting in poor clustering.
+2. Similarly, more than one centroids might be initialized into 
 
  
 
