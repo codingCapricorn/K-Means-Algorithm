@@ -9,7 +9,7 @@
 
 ###Disadvantage of the K-means algorithm ::::
 
-1. It is sensitive to the initialization of the  
+1. It is sensitive to the 
 
  
 
