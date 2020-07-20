@@ -8,9 +8,6 @@
 ###An Advancement Over K-Means Clustering Technique
 
 ###Disadvantage of the K-means algorithm ::::
-
-1. It is sensitive to the 
-
  
 
 """
