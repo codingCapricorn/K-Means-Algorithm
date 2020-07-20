@@ -9,7 +9,7 @@
 
 ###Disadvantage of the K-means algorithm ::::
 
-1. It is sensitive to the initialization of the centroids or the mean points. So, if a centroid is initialized to be a 
+1. It is sensitive to the initialization of the centroids or the mean points. So, if a centroid is
 
  
 
