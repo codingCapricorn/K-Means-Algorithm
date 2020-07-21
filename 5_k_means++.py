@@ -7,8 +7,7 @@
 
 ###An Advancement Over K-Means Clustering Technique
 
-##Disadvantage of the K-means algo
- 
+##Disadvantage of the K-means 
 
 """
 
