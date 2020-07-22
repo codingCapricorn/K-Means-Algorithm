@@ -7,7 +7,7 @@
 
 ###An Advancement Over K-Means Clustering Technique
 
-##Disadvantage of
+##Disadvantag
 """
 
 # importing dependencies 
