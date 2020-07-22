@@ -7,7 +7,7 @@
 
 ###An Advancement Over K-Means Clustering Technique
 
-##Disad
+##D
 """
 
 # importing dependencies 
