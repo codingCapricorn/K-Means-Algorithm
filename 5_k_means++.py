@@ -5,7 +5,7 @@
 
 # "K-Means++ Clustering Algorithm" ::::
 
-#An Advancement Over K-
+#An Advancement Over 
 """
 
 # importing dependencies 
