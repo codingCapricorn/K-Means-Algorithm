@@ -2,4 +2,4 @@
 
 An Unsupervised Machine Learning Algorithm
 
-The repository contains 5 correlated
+The repository contains 5 correlated modules
