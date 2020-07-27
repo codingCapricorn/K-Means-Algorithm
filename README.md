@@ -2,4 +2,4 @@
 
 An Unsupervised Machine Learning Algorithm
 
-The repository
+The repository contains
