@@ -11,5 +11,6 @@ K-means algorithm explores for a preplanned number of clusters in an unlabelled 
 
 The repository contains 5 correlated modules ::::
 
-    -->> 1. K_Means_Algorithm
-    -->>
+    -->> 1. K-Means Algorithm
+    
+    -->> 2. K-Means Real World Implementation
