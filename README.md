@@ -14,3 +14,6 @@ The repository contains 5 correlated modules ::::
     -->> 1. K-Means Algorithm
     
     -->> 2. K-Means Real World Implementation
+
+    -->> 3.
+
