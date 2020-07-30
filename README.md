@@ -17,5 +17,5 @@ The repository contains 5 correlated modules ::::
 
     -->> 3. Developing Own K-Means Algorithm
     
-    -->> 4. 
+    -->> 4. K-Means Using Plotly
 
