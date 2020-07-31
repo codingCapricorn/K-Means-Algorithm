@@ -15,7 +15,7 @@ The repository contains 5 correlated modules ::::
 
     -->> 1. K-Means Algorithm
     
-    -->> 2. K-MeReal World Implementation
+    -->> 2. K-MReal World Implementation
 
     -->> 3. Developing Own K-Means Algorithm
     
