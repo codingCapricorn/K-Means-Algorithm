@@ -1,7 +1,7 @@
 # K-Means Clustering Algorithm
 ## An Unsupervised Machine Learning Algorithm
 #
-
+#
 Clustering is arranged in a way that each observation in the same class possesses similar characteristics and observation of separate groups shows dissimilarity in characteristics. As a part of the unsupervised learning method,clustering attempts to identify a relationship between n-observations( data points) without being trained by the response variable.
 #
 ![kmeansanimation](Output/Kmeansanimation.gif)
